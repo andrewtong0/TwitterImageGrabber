@@ -16,3 +16,5 @@ Note: If the image could not be found (likely not in gallery mode), the popup wi
 ### How it works
 - twitterImageGrabber, upon clicking the "Grab Image" button accesses the HTML of the current page, identifies the image the user wants to save, and returns the source URL of the image
 - Next, assuming a valid URL was returned, a new tab is opened with the image source URL as the tab URL
+
+I also have a Python version that I made a while ago as a proof of concept, but it was very cumbersome since it only ran through the command line (it was faster to find the image source through the HTML than to use it). If you're curious to see it, you can find it [here](https://github.com/andrewtong0/TwitterImageGrabberPython)
