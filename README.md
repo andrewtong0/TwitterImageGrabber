@@ -4,7 +4,7 @@ A Chrome extension to quickly and easily save photos from Twitter in full resolu
 DISCLAIMER: Please use this extension responsibly and respect the intellectual property rights of others. This extension does not permit copyright infringing activities through its usage, nor do I encourage heinous or illegal activities through the utilization of this program.
 
 ### What it does
-- twitterImageGrabber provides an icon shortcut to easily access the full resolution of an image for viewing or saving. This extension is to help aid frustration with a bug where some images on Twitter are saveable. This inconsistency is fixed through this extension.
+- twitterImageGrabber provides an icon shortcut to easily access the full resolution of an image for viewing or saving. This extension is to help aid frustration with a bug where some images on Twitter are inconsistently unsaveable. This inconsistency is fixed through this extension.
 
 ### Usage
 1. Find the image you would like to save
