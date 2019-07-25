@@ -1,6 +1,8 @@
 # ![Icon](https://i.imgur.com/hsVN8Hm.png) twitterImageGrabber
 A Chrome extension to quickly and easily save photos from Twitter in full resolution
 
+**Broken as of Twitter's July overhaul due to HTML changes**
+
 DISCLAIMER: Please use this extension responsibly and respect the intellectual property rights of others. This extension does not permit copyright infringing activities through its usage, nor do I encourage heinous or illegal activities through the utilization of this program.
 
 ### What it does
